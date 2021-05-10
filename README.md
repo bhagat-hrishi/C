@@ -1,18 +1,24 @@
-# C
-This repo contain concepts of c language and some codes
+# C Language
 
-## For visualize any C program use below
-##### http://www.pythontutor.com/c.html#mode=edit
-
-## C output Questions GFG
-#### https://www.geeksforgeeks.org/tag/c-output/
-
-## Advance pointer C
-#### https://www.geeksforgeeks.org/c-language-2-gq/advanced-pointer-c-gq/
+This repo contains concepts of c language and  some codes
 
 
-## How c/c++ compilation works
-#### https://www.youtube.com/watch?v=wTEjdFgcRIg&t=2s
+![Logo](https://logodix.com/logo/640502.jpg)
 
-## Interview Questions ArticleWorld
-#### https://aticleworld.com/c-interview-questions/
+    
+
+## Acknowledgements
+
+ - [To visualize any c program](http://www.pythontutor.com/c.html#mode=edit)
+ - [C output questions GFG](https://www.geeksforgeeks.org/tag/c-output/)
+ - [Advnace pointer in c gfg](https://www.geeksforgeeks.org/c-language-2-gq/advanced-pointer-c-gq/)
+ - [How c/c++ compilation works](https://www.youtube.com/watch?v=wTEjdFgcRIg&t=2s)
+ - [C output Questions GFG](https://www.geeksforgeeks.org/tag/c-output/)
+ - [Interview questions articleworld](https://aticleworld.com/c-interview-questions/)
+
+
+
+  
+
+
+
