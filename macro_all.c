@@ -6,8 +6,8 @@
 //    The last line doesn’t need to have ‘\’.
 #define hrishi(n) for(int i=0;i<n;i++)\
         {\
-            printf("\nomkar ");\
-            printf("Arun Bhagat ");\
+            printf("\nWCE ");\
+            printf("Computer Science");\
         }
 
 #define m 5

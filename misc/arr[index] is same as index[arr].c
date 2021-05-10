@@ -1,4 +1,4 @@
-
+//https://stackoverflow.com/questions/381542/with-arrays-why-is-it-the-case-that-a5-5a
 #include<stdio.h>
 int main()
 {

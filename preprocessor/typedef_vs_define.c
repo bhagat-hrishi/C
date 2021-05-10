@@ -16,7 +16,8 @@ int main()
     /*
 ptr expanded declaration as char *x, * y, *z;
 whereas PTR expanded as char *x, y, z; <--here * is associated only with the x
-So, Define acted just as a place holder whereas, typedef did a smart job of initializing each variable as per the defined type which is char*
+So, Define acted just as a place holder whereas,
+typedef did a smart job of initializing each variable as per the defined type which is char*
     */
 
 

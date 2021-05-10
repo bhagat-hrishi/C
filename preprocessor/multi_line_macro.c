@@ -1,23 +1,23 @@
-#include <stdio.h> 
+#include <stdio.h>
+//This wrong example correct it
+#define MACRO(num, str) {\
+			printf("%d", num);\
+			printf(" is");\
+			printf(" %s number", str);\
+			printf("\n");\
+		}
 
-#define MACRO(num, str) {\ 
-			printf("%d", num);\ 
-			printf(" is");\ 
-			printf(" %s number", str);\ 
-			printf("\n");\ 
-		} 
+int main(void)
+{
+	int num;
 
-int main(void) 
-{ 
-	int num; 
+	printf("Enter a number: ");
+	scanf("%d", &num);
 
-	printf("Enter a number: "); 
-	scanf("%d", &num); 
-
-	if (num & 1) 
-		MACRO(num, "Odd"); 
+	if (num & 1)
+		MACRO(num, "Odd");
 	else
-		MACRO(num, "Even"); 
+		MACRO(num, "Even");
 
-	return 0; 
-} 
+	return 0;
+}

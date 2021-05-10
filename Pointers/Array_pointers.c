@@ -10,8 +10,9 @@ int main()
 	int (*ptr)[5];
 
 
-    //This is pointer to array of 5 elements and this elements are pointer to integer
+    //This is  array of 5 elements and this elements are pointer to integer
 	int *ptr2 [5];
+	//int 5 element where each element is int
 	int arr[5];
 
 	// Points to 0th element of the arr.
