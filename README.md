@@ -7,7 +7,6 @@ This repo contains concepts of c language and  some codes
 
     
 
-## Acknowledgements
 
  - [To visualize any c program](http://www.pythontutor.com/c.html#mode=edit)
 
